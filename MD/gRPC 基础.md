@@ -1,6 +1,6 @@
 # 一、gRPC 结构
 
-![image-20200809081157443](.\Pictures\image-20200809081157443.png)
+![image-20200809081157443](Siahk\Repository\Pictures\image-20200809081157443.png)
 
 # 二、设计步骤
 
